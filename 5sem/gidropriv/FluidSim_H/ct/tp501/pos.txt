@@ -1,0 +1,2 @@
+DESCR TP 501 (Hydraulik Grundstufe)
+375 5 962 908 0.500000

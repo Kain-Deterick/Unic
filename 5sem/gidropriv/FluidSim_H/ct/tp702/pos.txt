@@ -1,0 +1,2 @@
+DESCR TP 702 (Proportionalhydraulik Aufbaustufe)
+380 2 842 962 0.500000

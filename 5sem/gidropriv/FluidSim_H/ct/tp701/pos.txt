@@ -1,0 +1,2 @@
+DESCR TP 701 (Proportionalhydraulik Grundstufe)
+360 2 726 632 0.500000

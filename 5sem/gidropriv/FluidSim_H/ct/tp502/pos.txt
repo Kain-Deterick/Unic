@@ -1,0 +1,2 @@
+DESCR TP 502 (Hydraulik Aufbaustufe)
+378 5 880 1048 0.500000

@@ -1,0 +1,13 @@
+DESCR TP 602 (Electro-hydraulics Advanced Level)
+375 5 962 908 0.500000
+1 1 ..
+2 1 TP602_01.ct
+3 1 TP602_02.ct
+4 1 TP602_03.ct
+5 1 TP602_04.ct
+6 1 TP602_05.ct
+1 2 TP602_06.ct
+2 2 TP602_07.ct
+3 2 TP602_08.ct
+4 2 TP602_09.ct
+5 2 TP602_10.ct
